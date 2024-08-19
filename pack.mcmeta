@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": "Chinglish | 中式英语"
+    },
+    "language": {
+        "en_zh": {
+            "name": "Chinglish",
+            "region": "Chinese",
+            "bidirectional": false
+        }
+    }
+}
